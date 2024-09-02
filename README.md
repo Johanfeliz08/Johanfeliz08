@@ -34,9 +34,9 @@
 </table>
 
 ## 📊 My stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanfeliz08&show_icons=true&locale=en&layout=compact" alt="johanfeliz08" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanfeliz08&show_icons=true&locale=en" alt="johanfeliz08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanfeliz08&" alt="johanfeliz08" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanfeliz08&show_icons=true&locale=en&layout=compact" alt="johanfeliz08" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanfeliz08&show_icons=true&locale=en" alt="johanfeliz08" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanfeliz08&" alt="johanfeliz08" /></p>
+</div>
 
