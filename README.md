@@ -22,7 +22,19 @@
 <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Some description in here</p>
+<p>Fully responsive landing page for "3legant," a fictional golf e-commerce company. This site seamlessly adapts to various screen sizes, offering a polished and user-friendly interface that reflects <br> the elegance and precision associated with the game of golf. </p>
+</div>
+</td>
+  <td width="50%">
+<h3 align="center">3legant Golf - E-commerce landing page</h3>
+<div align="center">
+<a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank"><img src="https://i.imgur.com/rRCbC4L.png" width="400" alt="3legant E-commerce landing page"></a>
+<p>
+<a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank">
+<img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>Fully responsive landing page for "3legant," a fictional golf e-commerce company. This site seamlessly adapts to various screen sizes, offering a polished and user-friendly interface that reflects <br> the elegance and precision associated with the game of golf. </p>
 </div>
 </td>
 </tr>
@@ -30,8 +42,8 @@
 
 ## 📊 My stats
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanfeliz08&show_icons=true&locale=en&layout=compact" alt="johanfeliz08" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanfeliz08&show_icons=true&locale=en" alt="johanfeliz08" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanfeliz08&" alt="johanfeliz08" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanfeliz08&show_icons=true&theme=algolia&locale=en&layout=compact" alt="johanfeliz08" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanfeliz08&show_icons=true&theme=algolia&locale=en" alt="johanfeliz08" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanfeliz08&theme=algolia&" alt="johanfeliz08" /></p>
 </div>
 
