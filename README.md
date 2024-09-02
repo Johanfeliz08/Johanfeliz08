@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Johan
+<img src="https://pbs.twimg.com/profile_banners/358981984/1703813604/1500x500" alt="" />
 
 <!--
 **Johanfeliz08/Johanfeliz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
