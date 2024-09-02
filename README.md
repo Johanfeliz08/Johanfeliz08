@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">3legant Golf - E-commerce landing page</h3>
 <div align="center">
-<a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank"><img src="https://imgur.com/a/3legant-golf-e-commerce-landing-page-by-johanfeliz08-WJAi5Dm" width="400" alt="3legant E-commerce landing page"></a>
+<a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank"><img src="https://i.imgur.com/rRCbC4L.png" width="400" alt="3legant E-commerce landing page"></a>
 <p>
 <a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank">
 <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white">
