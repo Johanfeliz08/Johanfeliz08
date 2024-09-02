@@ -1,7 +1,5 @@
-<div align="center">
-  <h1>Hi there, I'm Johan👋<h1/>
-</div>
-  <img src="https://pbs.twimg.com/profile_banners/358981984/1703813604/1500x500" alt="" />
+<h1 align="center">Hi there, I'm Johan👋<h1/>
+<img src="https://pbs.twimg.com/profile_banners/358981984/1703813604/1500x500" alt="" />
 
 ## About me
 - 🧑‍💻 Front-end Developer
@@ -18,13 +16,10 @@
 <td width="50%">
 <h3 align="center">3legant Golf - E-commerce lading page</h3>
 <div align="center">
-<a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="3legant E-commerce landing page"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank">
+<img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>Some description in here</p>
