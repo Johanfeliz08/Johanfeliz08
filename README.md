@@ -10,13 +10,13 @@
 ## Tech Stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
-## My best projects*
+## My best projects
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">3legant Golf - E-commerce lading page</h3>
+<h3 align="center">3legant Golf - E-commerce landing page</h3>
 <div align="center">
-<a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="3legant E-commerce landing page"></a>
+<a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank"><img src="https://imgur.com/a/3legant-golf-e-commerce-landing-page-by-johanfeliz08-WJAi5Dm" width="400" alt="3legant E-commerce landing page"></a>
 <p>
 <a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank">
 <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white">
