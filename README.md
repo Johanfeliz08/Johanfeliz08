@@ -21,6 +21,9 @@
 <a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank">
 <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
+<a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank">
+<img src="https://img.shields.io/badge/VIEW-38c988?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 </p>
 <p>Fully responsive landing page for "3legant," a fictional golf e-commerce company. This site seamlessly adapts to various screen sizes, offering a polished and user-friendly interface that reflects <br> the elegance and precision associated with the game of golf. </p>
 </div>
