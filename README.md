@@ -12,8 +12,8 @@
 
 ## My best projects
 <table>
-<tr>
-<td width="50%">
+<!-- <tr> -->
+<td width="400x">
 <h3 align="center">3legant Golf - E-commerce landing page</h3>
 <div align="center">
 <a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank"><img src="https://i.imgur.com/rRCbC4L.png" width="400" alt="3legant E-commerce landing page"></a>
@@ -25,7 +25,7 @@
 <p>Fully responsive landing page for "3legant," a fictional golf e-commerce company. This site seamlessly adapts to various screen sizes, offering a polished and user-friendly interface that reflects <br> the elegance and precision associated with the game of golf. </p>
 </div>
 </td>
-  <td width="50%">
+<!--   <td width="50%">
 <h3 align="center">3legant Golf - E-commerce landing page</h3>
 <div align="center">
 <a href="https://github.com/Johanfeliz08/3legant-golf" target="_blank"><img src="https://i.imgur.com/8Diggqc.jpg" width="400" alt="3legant E-commerce landing page"></a>
@@ -36,8 +36,8 @@
 </p>
 <p>Fully responsive landing page for "3legant," a fictional golf e-commerce company. This site seamlessly adapts to various screen sizes, offering a polished and user-friendly interface that reflects <br> the elegance and precision associated with the game of golf. </p>
 </div>
-</td>
-</tr>
+</td> -->
+<!-- </tr> -->
 </table>
 
 ## 📊 My stats
