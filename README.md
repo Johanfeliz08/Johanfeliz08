@@ -8,7 +8,31 @@
 - 📍 Barahona, Dominican Republic
 
 ## Tech Stack
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" alt="Astro" title="Astro"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="git" width="40" height="40"/> <img src="https://imgs.search.brave.com/E1VfAYSONoFHzwXtEdFqbhE5TJ0FxAzue_T_VK2WhIE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92ZXJj/ZWwuY29tL3ZjLWFw/LXZlcmNlbC1tYXJr/ZXRpbmcvX25leHQv/c3RhdGljL21lZGlh/L25leHRqcy1sb2dv/LWxpZ2h0LjdiZmYz/ZGFlLnN2Zw" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" alt="Astro" title="Astro"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
+      width="40" height="40" />
+  </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="git" width="40" height="40"/> <img src="https://imgs.search.brave.com/E1VfAYSONoFHzwXtEdFqbhE5TJ0FxAzue_T_VK2WhIE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92ZXJj/ZWwuY29tL3ZjLWFw/LXZlcmNlbC1tYXJr/ZXRpbmcvX25leHQv/c3RhdGljL21lZGlh/L25leHRqcy1sb2dv/LWxpZ2h0LjdiZmYz/ZGFlLnN2Zw" alt="git" width="40" height="40"/>   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40"
+      height="40" />
+  </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
+      height="40" />
+  </a>   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+      alt="oracle" width="40" height="40" />
+  </a>   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql" width="40" height="40" />
+  </a>   <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
+      width="40" height="40" />
+  </a>   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="csharp" width="40" height="40" />
+  </a>
 
 ## My best projects
 <table>
