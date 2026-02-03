@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Johan👋<h1/>
-
 ## About me
 - 🧑‍💻 Front-end Developer
 - 📕 Software Engineer Student (Graduating in 2026)
