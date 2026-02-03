@@ -1,4 +1,3 @@
-<!-- <img src="https://pbs.twimg.com/profile_banners/358981984/1703813604/1500x500" alt="" /> -->
 <h1 align="center">Hi there, I'm Johan👋<h1/>
 
 ## About me
