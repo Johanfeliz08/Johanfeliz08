@@ -38,6 +38,22 @@
 <table>
 <!-- <tr> -->
 <td width="400x">
+<h3 align="center">Trivo - Professional Networking App </h3>
+<div align="center">
+<a href="" target="_blank"><img src="https://i.imgur.com/TvPdCYN.png" width="400" alt=""></a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/VIEW-38c988?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+</p>
+<p>Trivo is a professional networking web application that connects individuals interested in collaborating on projects through an intelligent and user-friendly platform. Using artificial intelligence, Trivo provides personalized suggestions by matching users based on their skills, interests, and professional goals. The application is developed with Next.js and TypeScript, following clean architecture principles and leveraging a modern, scalable, and high-performance technology stack.</p>
+</div>
+</td>
+
+<td width="400x">
 <h3 align="center">Just New Emotions - E-commerce </h3>
 <div align="center">
 <a href="https://justnewemotions.shop/inicio" target="_blank"><img src="https://i.imgur.com/Uxr3aF4.png" width="400" alt=""></a>
