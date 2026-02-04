@@ -54,6 +54,22 @@
 </td>
 
 <td width="400x">
+<h3 align="center">Coop360 – Cooperative Financial Management System </h3>
+<div align="center">
+<a href="" target="_blank"><img src="https://i.imgur.com/buwwPaT.png" width="400" alt=""></a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/VIEW-38c988?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+</p>
+<p>Coop360 is a full-stack web application built with ASP.NET MVC for managing loan operations in a cooperative. It enables member management, loan requests and approvals, payment processing, and automatic amortization and interest calculations based on loan terms. The platform enforces strong validation with secure document storage and features role-based access control with hierarchical permissions, ensuring secure and efficient financial management..</p>
+</div>
+</td>
+
+<td width="400x">
 <h3 align="center">Just New Emotions - E-commerce </h3>
 <div align="center">
 <a href="https://justnewemotions.shop/inicio" target="_blank"><img src="https://i.imgur.com/Uxr3aF4.png" width="400" alt=""></a>
