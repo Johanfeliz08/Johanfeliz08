@@ -56,12 +56,12 @@
 <td width="400x">
 <h3 align="center">Coop360 – Cooperative Financial Management System </h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.imgur.com/buwwPaT.png" width="400" alt=""></a>
+<a href="https://github.com/Johanfeliz08/Coop360_I" target="_blank"><img src="https://i.imgur.com/buwwPaT.png" width="400" alt=""></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/Johanfeliz08/Coop360_I" target="_blank">
 <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="" target="_blank">
+<a href="https://github.com/Johanfeliz08/Coop360_I" target="_blank">
 <img src="https://img.shields.io/badge/VIEW-38c988?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 </p>
