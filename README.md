@@ -4,7 +4,7 @@
 - 🧑‍💻 Front-end Developer
 - 📕 Software Engineer Student (Graduating in 2026)
 - 🧑‍💻 Learning PERN/MERN Back-end
-- 🧰 I'm currently working on <a href="https://justnewemotions.shop/inicio" target="_blank">Just New Emotions - E-commerce (Client Project)</a>
+- 🧰 I'm currently working on Ninja-js: Clean Architecture Framework for NodeJS
 - 📍 Barahona, Dominican Republic
 
 ## Tech Stack
